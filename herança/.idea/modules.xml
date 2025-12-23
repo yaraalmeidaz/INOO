@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Registro Academico/Registro Academico.iml" filepath="$PROJECT_DIR$/Registro Academico/Registro Academico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zoologico/Zoologico.iml" filepath="$PROJECT_DIR$/Zoologico/Zoologico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/herança.iml" filepath="$PROJECT_DIR$/.idea/herança.iml" />
+    </modules>
+  </component>
+</project>
